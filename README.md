@@ -3,7 +3,7 @@
 * [Abstrakt](#abstrakt)
 * [Müsahibəyə gedən yol](#müsahibəyə-gedən-yol)
   * [Proqramçı-mühəndis rolları](#proqramçı-mühəndis-rolları)
-  * [İş müsahibələrinə düşməyin müxtəlif yolları](#iş-müsahibələrinə-düşməyin-müxtəlif-yolları)
+  * [İş müsahibələrinə düşməyin müxtəlif yolları](#i̇ş-müsahibələrinə-düşməyin-müxtəlif-yolları)
     * [Şirkətlərin karyera səhifəsi](#şirkətlərin-karyera-səhifəsi)
     * [Şirkətdaxili yönləndirmə](#şirkətdaxili-yönləndirmə-referans---red)
     * [Universitet və ya akademik yol](#universitet-və-ya-akademik-yol)
@@ -69,7 +69,7 @@ Texnologiya şirkətləri ümumi proqramçı-mühəndis rolundan əlavə fərqli
 
 İşə müraciət edənlərin sayının çoxluğundan dolayı, böyük texnologiya şirkətlərində müsahibəyə düşmək və işə götürənlərin diqqətini cəlb etmək çox da asan olmur.  Müsahibəyə düşmək fərqli yollarla mümkündür. Aşağıda sadaladığımız yollar müəlliflərin şəxsi təcrübələrdən qaynaqlanır və mütləqdir ki, müəlliflərin xəbərsiz olduğu hekayələr var. Yeni təcrübələr ilə tanış olduqda bu siyahıya əlavələr olacaq. Fərqli müsahibə hekayələri ilə tanış olmaq üçün [Blind](https://www.teamblind.com/) saytını nəzərdən keçirə bilərsiniz.
 
-#### Şirkətlərin karyera səhifəsi <a name="career-page"></a>
+#### Şirkətlərin karyera səhifəsi
 
 Bir çox şirkətlər korporativ veb səhifələrinin karyera bölməsində açıq iş elanlarını yerləşdirir. Məsələn, [Google](https://careers.google.com/) və ya [Facebook](https://www.facebook.com/careers/)un karyera səhifərlərində sizə uyğun olan açıq vakansiyaları müxtəlif filterlər istifadə edərək tapa, nəzərdən keçirə və müraciət edə bilərsiz.
 
