@@ -21,7 +21,7 @@
   * [Alqoritmlər və verilənlər strukturları](#alqoritmlər-və-verilənlər-strukturları)
     * [Müsahibəyə hazırlaşmaq üçün mənbələr](#müsahibəyə-hazırlaşmaq-üçün-mənbələr)
     * [Mövzular](#mövzular)
-      * [Alqoritmlərdə yaddaş və zaman mürəkkəbliyi)](#alqoritmlərdə-yaddaş-və-zaman-mürəkkəbliyi-algorithm-complexity)
+      * [Alqoritmlərdə yaddaş və zaman mürəkkəbliyi](#alqoritmlərdə-yaddaş-və-zaman-mürəkkəbliyi-algorithm-complexity)
       * [Sadə verilənlər strukturları](#sadə-verilənlər-strukturları-elementary-data-structures---red)
       * [Mürəkkəb verilənlər strukturları](#mürəkkəb-verilənlər-strukturları-advanced-data-structures---red)
       * [Sıralama və axtarış alqoritmləri](#sıralama-və-axtarış-alqoritmləri-sort-and-search---red)
@@ -59,7 +59,7 @@ Böyük texnologiya şirkətlərində açıq iş elanlarının və iş imkanlar�
 
 Ümumi proqramçı-mühəndislərdən əsas gözləntilərdən biri yeni texnologiyaları və proqramlama dillərini öyrənmə qabiliyyətinin yüksək olmasıdır. Bu qrupdakı mühəndislər bəzən eyni zamanda müxtəlif proqramlaşdırma dilləri və texnologiyalar istifadə edilən bir neçə aktiv layihədə iştirak edir. Bu formada işdə effektiv çalışa bilmək üçün həmçinin, mühəndislərə şirkətə qoşulduqdan sonra bilmədikləri və onlara işdə gərəkli olan texnologiyaları öyrənmək üçün 3-6 aya qədər zaman da verilir. İşəgötürən şirkətlər ümumi proqramçı-mühəndis rollarına müraciət edən müraciətçilərdə hər hansı bir sahədə mütəxəssis olmasından çox, yeni problemləri nə qədər çevik qavramasına və problemləri optimal həll edə bilmək bacarığına diqqət yetirir. Müsahibə zamanı müraciətçilərə ümumi biliklərini yoxlamaq üçün alqoritmlər, paylanmış sistemlər (distributed computing - red), internet protokolları və sair bu kimi ümumi mövzularda suallar və məslələr verilir. Məsələlərin həlli zamanı müraciətçilərə istədikləri proqramlaşdırma dili seçmək imkanı verilir.
 
-**İxtisaslaşmış proqramçı-mühəndis (Specialist Software Engineer)**
+**İxtisaslaşmış proqramçı-mühəndis (Domain-specific Software Engineer)**
 
 Texnologiya şirkətləri ümumi proqramçı-mühəndis rolundan əlavə fərqli istiqamətlər üzrə ixtisaslaşmış proqramçı-mühəndis rolları üçün də iş elanları yerləşdirir. Bu rol qrupuna front-end, mobil (Android və ya iOS), Maşın öyrənməsi (Machine learning - red), DevOps və SRE (Site Relability Engineer - red) və digər bu kimi sahələrdə ixtisaslaşmış proqramçı-mühəndislər aid edilir.
 
@@ -87,7 +87,7 @@ Müraciətlərin çoxluğu səbəbindən, karyera səhifələrindən edilən mü
 
 Yüksək reytinqli texniki universitetlərin məzun və tələbələri daim böyük şirkətlərin diqqət mərkəzində olur. Texnologiya şirkətləri bu universitetlərdə mütəmadi karyera sərgiləri keçirməklə yanaşı, bu universitetlərə özlərinin avtomatlaşdırılmış CV seçmə sistemlərində də üstünlük verirlər. Karyera sərgilərində qısa müzakirələrdən sonra tələbə və məzunlar əksər vaxt "on-site" müsahibəyə dəvət olunur. Yüksək reytinqli universitetlərlə yanaşı, texnologiya şirkətləri fərqli şəhərlərdə (məs. Dublin, Sürix, London, və s.) yerləşən ofislərinə yaxın lokal universitetlərdə də karyera günləri və aktiv müsahibələr keçirir.
 
-Reytinqli texnologiya universitetlərindən məzun və tələbə axtarışından başqa, böyük texnologiya şirkətləri həm də bir çox elmi araşdırma konfranslarında həm sponsor, həm də araşdırma mərkəzi kimi iştirak edirlər (misal üçün [VLDB](https://www.vldb.org/), [USENIX](https://www.usenix.org/) və s). Şirkətlər bu konfranslarda da iştirak edən məqalə müəlliflərinə diqqət edir, potensial komanda yoldaşı kimi gördükləri mütəxəssisləri nəzarətə alırlar. Bu formada işə götürmə əsasən spesifik sahələrdə, məsələn, proqramlama dilləri, məlumatları idarəetmə sistemləri (data management systems - red), maşın öyrənmə və bu kimi digər sahələrdə ixtisaslaşmış mütəxəssislər üçün keçərli olur.
+Reytinqli texnologiya universitetlərindən məzun və tələbə axtarışından başqa, böyük texnologiya şirkətləri həm də bir çox elmi araşdırma konfranslarında həm sponsor, həm də araşdırma mərkəzi kimi iştirak edirlər (misal üçün [VLDB](https://www.vldb.org/), [USENIX](https://www.usenix.org/) və s). Şirkətlər bu konfranslarda da iştirak edən məqalə müəlliflərinə diqqət edir, potensial komanda yoldaşı kimi gördükləri mütəxəssisləri nəzarətə alırlar. Bu formada işə götürmə əsasən spesifik sahələrdə, məsələn, proqramlama dilləri, məlumatları idarəetmə sistemləri (database management systems - red), maşın öyrənmə və bu kimi digər sahələrdə ixtisaslaşmış mütəxəssislər üçün keçərli olur.
 
 #### Proqramlaşdırma yarışmaları və ya olimpiadalar
 
