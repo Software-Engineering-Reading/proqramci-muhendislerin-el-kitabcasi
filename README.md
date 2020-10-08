@@ -103,13 +103,13 @@ Bu yarışlarda qazanılan təcrübələr müsahibələrdən keçməyə faydalı
 
 İşə götürənələrin önəmli işçi axtarışı mənbələrindən biri də açıq qaynaqlı layihələrdir. [Facebook](https://github.com/facebook), [Google](https://github.com/google) kimi şirkətlərin [Github](https://github.com/) üzərindən paylaşdığı proyektlərə, həmçinin [The Apache Software Foundation](https://www.apache.org/)-nin layihələri, universitetlərin və fərdi mühəndislərin açıq qaynaqla paylaşdığı layihələrdə iştirak edən və önəmli töhvələr verən mühəndislər texnologiya şirkətlərinin diqqətində olur.
 
-Böyük texnologiya şirkətləri həmçinin özləri də önəmli açıq qaynaqlı layihələrə dəstək olur. Məsələn, Google şirkəti 2020-ci il yay təcrübəsinə qəbul etmiş 1000-dən artıq tələbəni müxtəlif [açıq qaynaqlı layələrə cəlb edəcək](https://opensource.googleblog.com/2020/06/welcoming-1000-interns-to-open-source.html).
+Böyük texnologiya şirkətləri həmçinin özləri də önəmli açıq qaynaqlı layihələrə dəstək olur. Məsələn, Google şirkəti 2020-ci il yay təcrübəsinə qəbul etmiş 1000-dən artıq tələbəni müxtəlif [açıq qaynaqlı layihələrə cəlb edəcək](https://opensource.googleblog.com/2020/06/welcoming-1000-interns-to-open-source.html).
 
 Açıq qaynaqlı layihələrdə iştirak etməklə önəmli təcrübə və tanışlıqlar qazanmaqla yanaşı, texnologiya şirkətlərində müsahəbəyə dəvət olunmaq şanslarınızı artıra bilərsiniz.
 
 ### Linkedin profili, Cover letter və Resume (CV)
 
-İş başvurularına hansı yolla müraciət etməyinizdən asılı olmayaraq, diqqət çəkən, əhatəli və səliqəli CV-nizin olması iş tapma prosesində diqqət yetirməli olduğunuz məsələlərdəndir. Tərtib etdiyiniz CV-dəki məlumatların həmçinin Linkedin profilinizdə də olması iş tapma şanslarınızı artıra bilər.
+İş müraciətlərini hansı yolla etməyinizdən asılı olmayaraq, diqqət çəkən, əhatəli və səliqəli CV-nizin olması iş tapma prosesində diqqət yetirməli olduğunuz məsələlərdəndir. Tərtib etdiyiniz CV-dəki məlumatların həmçinin Linkedin profilinizdə də olması iş tapma şanslarınızı artıra bilər.
 
 CV hazırlayarkən təhsil və iş özkeçmişinizi gözəçarpan formada yazmağınız lazımdır. Əgər universitetdən yeni məzun olmusunuzsa və kifayət qədər iş təcrübəniz yoxdursa, təhsil aldığınız müddətdə işlədiyiniz universitet layihələrini, startup girişimlərinizi, şəxsi layihələriniz və əgər varsa dəstəklədiyiniz açıq qaynaqlı proqramları qeyd edin. Bu layihələr haqda qısa məlumat verməklə yanaşı, layihələrin hansı problemi həll etdiyi, sizin gördüyünüz işin layihənin uğuruna təsiri, istifadə etdiyiniz texnologiyalar, proqramlaşdırma dilləri, kitabxanalar, framework-lar haqda da qısa məlumat verin.
 
@@ -117,7 +117,7 @@ CV hazırlayarkən təhsil və iş özkeçmişinizi gözəçarpan formada yazma�
 
 Əlavə olaraq, həm təcrübəli namizədlər, həm də az iş təcrübəsi olan namizədlər, yaxşı olar ki, CV-nin ən yuxarı hissəsində özləri haqda 3-5 cümlədən ibarət qısa məlumat da yazsınlar.
 
-İzahat məktubu və ya Cover letter müsahibin özü haqda qısa məlumat verdiyi və işə müraciətini əsaslandırdığı qısa məktubdur. Son dövrlərdə böyük şirkətlərin işə qəbul prosesində izahat məktubu tələb olunmur. Əvəzində müsahiblə telefon müsahibəsi keçirilir. Bəzi kiçik və orta texnologiya şirkətlərində müraciətçidən izahat məktubu tələb oluna bilər. İzahat məktubu yazarkən məktubu qısa tutmağa (məs. A4 vərəqin yarısı qədər) çalışın. Məktubun bir hissəsində şəxsi keyfiyyətlərinizi, digər hissəsində iş keçmişinizin xülasəsini, şirkətə və müraciət etdiyiniz rola nə üçün uyğun olduğunuzu vurğulayın.
+İzahat məktubu və ya Cover letter müsahibin özü haqda qısa məlumat verdiyi və işə müraciətini əsaslandırdığı qısa məktubdur. Son dövrlərdə böyük şirkətlərin işə qəbul prosesində izahat məktubu tələb olunmur. Əvəzində müsahiblə telefon müsahibəsi keçirilir. Bəzi kiçik və orta texnologiya şirkətlərində müraciətçidən izahat məktubu tələb oluna bilər. İzahat məktubu yazarkən məktubu qısa etməyə (məs. A4 vərəqin yarısı qədər) çalışın. Məktubun bir hissəsində şəxsi keyfiyyətlərinizi, digər hissəsində iş keçmişinizin xülasəsini, şirkətə və müraciət etdiyiniz rola nə üçün uyğun olduğunuzu vurğulayın.
 
 # Müsahibə prossesi
 
