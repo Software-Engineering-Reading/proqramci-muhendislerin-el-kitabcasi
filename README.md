@@ -11,7 +11,7 @@
     * [Açıq qaynaqlı mənbələrə töhfələr](#açıq-qaynaqlı-mənbələrə-töhfələr-open-source-contributions---red)
     * [Linkedin profili, Cover letter və Resume](#linkedin-profili-cover-letter-və-resume-cv)
 * [Müsahibə prossesi](#müsahibə-prossesi)
-  * [MƏRHƏLƏ 1 - İnsan Resursları departamentinin əməkdaşı ilə telefon müsahibəsi](#mərhələ-1---i̇nsan-resursları-departamentinin-əməkdaşı-ilə-telefon-müsahibəsi)
+  * [MƏRHƏLƏ 1 - İnsan resursları şöbəsinin əməkdaşı ilə telefon müsahibəsi](#mərhələ-1---i̇nsan-resursları-şöbəsinin-əməkdaşı-ilə-telefon-müsahibəsi)
   * [MƏRHƏLƏ 2.1 - Texniki mərhələ (Ev tapşırığı)](#mərhələ-21---texniki-mərhələ-ev-tapşırığı)
   * [MƏRHƏLƏ 2.2 - Texniki mərhələ (Online)](#mərhələ-22---texniki-mərhələ-online)
   * [MƏRHƏLƏ 2.3 - Texniki mərhələ (Onsite)](#mərhələ-23---texniki-mərhələ-onsite)
@@ -77,7 +77,7 @@ Müraciətlərin çoxluğu səbəbindən, karyera səhifələrindən edilən mü
 
 #### Şirkətdaxili yönləndirmə (Referans - red)
 
-Əksər texnologiya şirkətlərində əməkdaşlar daxili portalı vasitəsi ilə tanıdıqları və iş elanının tələblərinə uyğun bildiyi namizədləri işə götürmə departamentinə və ya menecerlərinə yönləndirə və ya tövsiyə edə bilərlər. Şirkət daxili yönləndirmələr şirkətlərdə də önəmli sayılır və əksər hallarda tövsiyyə edilən namizədlə bir başa əlaqəyə keçilir.
+Əksər texnologiya şirkətlərində əməkdaşlar daxili portalı vasitəsi ilə tanıdıqları və iş elanının tələblərinə uyğun bildiyi namizədləri işə götürmə şöbəsinə və ya menecerlərinə yönləndirə və ya tövsiyə edə bilərlər. Şirkət daxili yönləndirmələr şirkətlərdə də önəmli sayılır və əksər hallarda tövsiyyə edilən namizədlə bir başa əlaqəyə keçilir.
 
 Əgər müraciət etmək istədiyiniz şirkətdə dostunuz və ya bir başqa tanıdığınız kimsə yoxdursa, o şirkətdə çalışan Azərbaycanlı mühəndislərlə əlaqə keçməyi, onlara özünüzü tanıtmağa və uyğun bilirlərsə sizi daxili portalda həmin iş elanına tövsiyyə etməyi xahiş edə bilərsiniz. Bu formada mühəndislərlə əlaqə saxlayan zaman peşəkar kanallar (məs. Email, Linkedin, və s.) istifadə edin və peşəkar davranın. Özünüz haqda, o cümlədən iş keçmişiniz, təhsiliniz, bilik və bacarıqlarınız haqda ətraflı məlumat verin. Həmçinin niyə sizi tövsiyyə etməsini istədiyinizi vurğulayın.
 
@@ -97,7 +97,7 @@ Yuxarıda qeyd etdiyimiz yarış və olimpiadalarla yanaşı bəzi texnologiya �
 
 Bu tipli yarışmaların detalları, hazırlıq prossesi və sair məlumatlar yüksək reytinqli iştirakçılar tərəfindən Youtube platformasında paylaşılır. Nümunə olaraq, [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg), [Petr Mitrichev](https://www.youtube.com/user/petrmitrichev/videos), [Gennady Korotkevich](https://www.youtube.com/channel/UCkySD00cmDWYHXA31hqRYRw/videos) və [William Lin](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)-in YouTube kanallarına baxa bilərsiniz.
 
-Bu yarışlarda qazanılan təcrübələr müsahibələrdən keçməyə faydalı olur. Lakin bu yarışlarda iştirak heç də həmişə yaxşı mühəndis olmaq demək deyil. Bu haqda Google Araşdırma departamentinin rəhbəri Peter Norvig [çıxışında](https://youtu.be/T1O3ikmTEdA?t=4242) cavablandırmışdır.
+Bu yarışlarda qazanılan təcrübələr müsahibələrdən keçməyə faydalı olur. Lakin bu yarışlarda iştirak heç də həmişə yaxşı mühəndis olmaq demək deyil. Bu haqda Google Araşdırma şöbəsinin rəhbəri Peter Norvig [çıxışında](https://youtu.be/T1O3ikmTEdA?t=4242) cavablandırmışdır.
 
 #### Açıq qaynaqlı mənbələrə töhfələr (Open Source contributions - red)
 
@@ -121,15 +121,15 @@ CV hazırlayarkən təhsil və iş özkeçmişinizi gözəçarpan formada yazma�
 
 # Müsahibə prossesi
 
-Birləşmiş Ştatlarda və Avropada yerləşən texnologiya şirkətləri, o cümlədən çoxumuzun yaxşı tanıdığı Google, Microsoft, Facebook və Amazon kimi şirkətlər işə qəbul prosesini standartlaşdırılmış müsahibə formatında həyata keçirir. Müsahibə, müraciət etmək üçün seçdiyiniz şirkətdən asılı olaraq bir neçə mərhələdə həyata keçirilir. Şirkətlərdə müsahibənin içəriyi və formatı bir-birindən fərqli olasa da, ümumilikdə müsahibə prosesi bənzər həyata keçirilir. Fərqliliklər isə şirkərlərdə oturuşmuş ümumi korportativ və mühəndislik mədəniyyətinə əsasən mövcud olur. Məsələn Amazon-da işə qəbul prosesində müsahibin şirkətə uyğunluğu və davranışı digər şirkətlərə nisbətən daha çox ön plana çəkilə bilər. Həmçinin, eyni şirkətdə fərqli komandalar arasında da müsahibə prosesinə yanaşmada müəyyən fərqliliklər ola bilər.
+Birləşmiş Ştatlarda və Avropada yerləşən texnologiya şirkətləri, o cümlədən çoxumuzun yaxşı tanıdığı Google, Microsoft, Facebook və Amazon kimi şirkətlər işə qəbul prosesini standartlaşdırılmış müsahibə formatında həyata keçirir. Müsahibə, müraciət etmək üçün seçdiyiniz şirkətdən asılı olaraq bir neçə mərhələdə həyata keçirilir. Şirkətlərdə müsahibənin məzmunu və formatı bir-birindən fərqli olasa da, ümumilikdə müsahibə prosesi bənzər şəkildə həyata keçirilir. Fərqliliklər isə şirkərlərdə oturuşmuş ümumi korportativ və mühəndislik mədəniyyətinə əsasən mövcud olur. Məsələn, Amazon-da işə qəbul prosesində müsahibin şirkətə uyğunluğu və davranışı digər şirkətlərə nisbətən daha çox ön plana çəkilə bilər. Həmçinin, eyni şirkətdə fərqli komandalar arasında da müsahibə prosesinə yanaşmada müəyyən fərqliliklər ola bilər.
 
-Yazının ardında sizinlə yuxarıda qeyd edilən texnologiya şirkətlərində uğurlu intership və iş müsahibələri keçmiş, həmçinin müxtəlif zamanlar həmin şirkətlərdə mühasibə proseslərində iştirak etmiş mühəndislərin təcrübələrini xülasə mərhələlər şəklində paylaşırıq.
+Yazının davamında sizinlə yuxarıda qeyd edilən texnologiya şirkətlərində uğurlu təcrübə proqramı (internship - red) və iş müsahibələri keçmiş, həmçinin müxtəlif zamanlarda həmin şirkətlərdə mühasibə proseslərində iştirak etmiş mühəndislərin təcrübələrini xülasə mərhələlər şəklində paylaşırıq.
 
-### **MƏRHƏLƏ 1 - İnsan Resursları departamentinin əməkdaşı ilə telefon müsahibəsi**
+### **MƏRHƏLƏ 1 - İnsan resursları şöbəsinin əməkdaşı ilə telefon müsahibəsi**
 
-Müsahibə prosesinin ilk mərhələsi müraciət etdiyiniz şirkətin İnsan Resursları departamentin əməkdaşının sizinlə təşkil etdiyi telefon müsahibəsi ilə başlayır. Telefon müsahibələri adətən 15-30 dəqiqə çəkir və demək olar bütün böyük texnologiya şirkətlərində müsahibənin ilk mərhələsidir. Bu mərhələnin əsas məqsədi sizinlə tanış olmaq və karyera hədəfləriniz haqda məlumat almaqdır. Telefon müsahibəsində sizdən əsasən şirkəti *nə üçün seçdiyiniz, şirkət və ya müraciət etdiyiniz komanda və gördükləri işlər haqında nə bildiyiniz soruşulur*. Telefon müsahibəsi mərhələsində müsahibə *nadir hallarda texniki suallar verilir*.
+Müsahibə prosesinin ilk mərhələsi müraciət etdiyiniz şirkətin insan resursları şöbəsinin əməkdaşının sizinlə təşkil etdiyi telefon müsahibəsi ilə başlayır. Telefon müsahibələri adətən 15-30 dəqiqə çəkir və demək olar bütün böyük texnologiya şirkətlərində müsahibənin ilk mərhələsidir. Bu mərhələnin əsas məqsədi sizinlə tanış olmaq və karyera hədəfləriniz haqda məlumat almaqdır. Telefon müsahibəsində sizdən əsasən şirkəti *nə üçün seçdiyiniz, şirkət və ya müraciət etdiyiniz komanda və gördükləri işlər haqında nə bildiyiniz soruşulur*. Bu mərhələdə müsahibə *nadir hallarda texniki suallar verilir*.
 
-Telefon müsahibəsini *uğurla başa vurmaq və müsahibə götürəndə özünüz haqda müsbət fikirlər yaratmaq üçün*, müsahibədən əvvəl *şirkət haqda ümumi **məlumatlar**, həmçinin şirkətin məhsul portfeli, bazarda ən çox tanınan məhsulları, bazara yeni çıxdığı məhsullar, iş elanında qeyd olunmuş işə və komandaya spesifik məlumat və tələblər* barədə araşdırma aparmağınız önəmlidir.
+Telefon müsahibəsini *uğurla başa vurmaq və müsahibə götürəndə özünüz haqda müsbət fikirlər yaratmaq üçün*, müsahibədən əvvəl *şirkət haqda ümumi **məlumatlar**, həmçinin şirkətin məhsul portfeli, bazarda ən çox tanınan məhsulları, bazara yeni çıxarılan məhsulları, iş elanında qeyd olunmuş işə və komandaya spesifik məlumat və tələblər* barədə araşdırma aparmağınız önəmlidir.
 
 Yuxarıdakı mövzulardan əlavə sizdən hazırkı viza statusunuz, paralel olaraq başqa şirkətlərlə müsahibə prosesində olub-olmadığınız, işə qəbul olduğunuz halda nə zaman başlaya biləcəyiniz və digər bu kimi suallar soruşula bilər.
 
@@ -141,7 +141,7 @@ Ev tapşırğı bəzi texnologiya şirkətlərinin Texniki müsahibə mərhələ
 
 1. **_Onlayn kodlaşdırma tapşırığı_** - Müsahibə email vasitəsi ilə online kodlaşdırma saytlarının birində ev tapşırığının linki göndərilir. Müsahib tapşırığı qeyd olunmuş müddət (əsasən 2-3 gün) ərzində başlamalı və tapşırıq üçün verilmiş zaman çərçivəsində (əsasən 1-2 saat) bitirməlidir. Tapşırıqlarını işləyərkən *əsas diqqət yetirməli olduğunuz 2 şey yazdığınız kodun zamana (time) və yaddaşa (space) görə optimal işləməsidir*.
 
-2. **_Layihə formatlı tapşırıq_** - Bu formatda olan ev tapşırıqları müsahibə email vasitəsi ilə PDF faylda və ya GitHub-da repositoty kimi göndərilir. Müsahib layihəni qeyd olunmuş müddət (əsasən 2-3) ərzində bitirib göndərməlidir. Tapşırıq çərçivəsində müsahib problemi həll edən kodu, testləri və həmçinin həlli və testləri işlətmək üçün gərəkli olan addımların təsvir edildiyi faylı müsahibəçiyə geri göndərməlidir.
+2. **_Layihə formatlı tapşırıq_** - Bu formatda olan ev tapşırıqları müsahibə email vasitəsi ilə PDF faylında və ya GitHub-da repository kimi göndərilir. Müsahib layihəni qeyd olunmuş müddət (əsasən 2-3) ərzində bitirib göndərməlidir. Tapşırıq çərçivəsində müsahib problemi həll edən kodu, testləri və həmçinin həlli və testləri işlətmək üçün lazım olan addımların təsvir edildiyi faylı müsahibəçiyə geri göndərməlidir.
 
 Ev tapşırıqları şirkətin mühəndisləri tərəfindən yoxlanılır. Bu mərhələni uğurla keçən müsahiblər Texniki müsahibənin əsas hissəsinə dəvət alır.
 
