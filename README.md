@@ -28,12 +28,12 @@
       * [Sətir alqoritmləri](#sətir-alqoritmləri-string-algorithms---red)
       * [Qraf alqoritmlər](#qraf-alqoritmlər-graphs---red)
       * [Ali alqoritm dizayn metodları](#ali-alqoritm-dizayn-metodları-advanced-algorithmic-design-techniques---red)
-  * [Sistem dizayn](#sistem-dizayn)
+  * [Sistem dizaynı](#sistem-dizayn)
     * [Mövzular](#mövzular-1)
       * [Şəbəkə](#şəbəkə-network)
       * [Məlumatların saxlanılması](#məlumatların-saxlanılması-storage-solutions)
       * [Paylanmış sistemlər](#paylanmış-sistemlər-distributed-systems)
-      * [Umumi texniki biliklər](#umumi-texniki-biliklər)
+      * [Ümumi texniki biliklər](#umumi-texniki-biliklər)
     * [Əlavə mənbələr](#əlavə-mənbələr)
 
 
@@ -314,49 +314,49 @@ Klassik qraf məsələləri və onların həlləri ilə ənənəvi kitablardan t
 
 ##### Acgöz alqoritmlər və dinamik proqramlaşdırma (Greedy algorithm and Dynamic Programming - red)
 
-Ənənəvi olaraq, hər həm acgöz alqoritmlər, həm də dinami proqramlaşdırma məsələləri texniki müsahibələrdə geniş istifadə ulunmuşdur. Son illərdə həlli daha çox zaman və dərin akademik biliklər tələb etdiyi üçün, mürəkkəb dinamik proqramlaşdırma məsələləri texniki müsahibələrdən çıxarılır və müsahibələrdə soruşulması məsləhət görülmür. Lakin dinami proqramlaşdırma  məsələlərin həllində istifadə olunun xatırlama metodu (memoziation technique) fərli məsələlərin həlli zamanı çox istifadə olunur. Acgöz alqoritmlər isə daha çox intiutiv həllər olduğu üçün davamlı şəkildə texniki müsahibələrdə soruşulur.
+Ənənəvi olaraq, həm acgöz alqoritmlər, həm də dinamik proqramlaşdırma məsələləri texniki müsahibələrdə geniş istifadə olunmuşdur. Son illərdə həlli daha çox zaman və dərin akademik biliklər tələb etdiyi üçün, mürəkkəb dinamik proqramlaşdırma məsələləri texniki müsahibələrdən çıxarılır və müsahibələrdə soruşulması məsləhət görülmür. Lakin dinamik proqramlaşdırma  məsələlərinin həllində istifadə olunun xatırlama metodu (memorization technique) fərqli məsələlərin həlli zamanı çox istifadə olunur. Acgöz alqoritmlər isə daha çox intuitiv həllər olduğu üçün davamlı şəkildə texniki müsahibələrdə soruşulur.
 
 MIT Introduction to Algorithms dərsində [Dinamik proqramlama](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78) və [Acgöz alqoritmlər](https://www.youtube.com/watch?v=tKwnms5iRBU) mövzuları dərindən müzakirə olunmuşdur. Kitabçanın resurslar bölməsində qeyd etdiyimiz digər resurslarda bu mövzulara geniş yer verilmişdir. Mövuzunu mənimsədikdən sonra Leetcode-da [Dynamic Programming](https://leetcode.com/tag/dynamic-programming/) və [Greedy](https://leetcode.com/tag/greedy/) başlığı altından olan problemləri və digər olimpiada saytlarındakı məsələləri həll edərək təcrübə qazana bilərsiniz.
 
 ##### Parçala və hökm et (Divide and Conquer - red)
 
-Texniki müsahibəyə hazırlaşarkən öyrənməli olduğunuz fundamental mövzulardan biri də "parçala və hökm et" paradiqması bir çox fərqli problemlərin həllinin dizaynı üçün istifadə oluna bilən ümumi modeldir.
+Texniki müsahibəyə hazırlaşarkən öyrənməli olduğunuz fundamental mövzulardan biri olan "parçala və hökm et" paradiqması bir çox fərqli problemlərin həllinin dizaynı üçün istifadə oluna bilən ümumi modeldir.
 
-Verilmiş məsələnin həllini müəyyənləşdirdikdən sonra, metodun spesifik tətbiqində döngü (loop - red), rekursiya (recursion - red) və ya backtracking istifadə edə bilərsiniz. [Burada](https://www.youtube.com/watch?v=EzeYI7p9MjU) metodun detallı olaraq hansı tipli məsəllərin həllində istifadə olunması müzakirə olunur.
+Verilmiş məsələnin həllini müəyyənləşdirdikdən sonra, metodun spesifik tətbiqində döngü (loop - red), rekursiya (recursion - red) və ya backtracking istifadə edə bilərsiniz. [Burada](https://www.youtube.com/watch?v=EzeYI7p9MjU) metodun detallı olaraq hansı tipli məsələlərin həllində istifadə olunması müzakirə olunur.
 
-Müsahibələrdə bu metodu istifadə edərkən problemləmlərin fərqli kontekstdə soruşula biləcəyini nəzərdə tutumağınız önəmlidir. Müxtəlif kontekstlərdə problemin hansı metodlarla daha effektiv həll edilməsi müsahibin öhdəliyinə düşür. Müsahibə zamanı verilən problemin sadə döngü vasitəsi ilə həlli mümkun olduğu halda, nə üçün mürəkkəb rekursiv funksiya ilə həll etdiyinizi  izah etmək biliklərinə sahib olmalısınız. Müsahib müsahibə zamanı sizdən həmçini rekursive yazılmış funksiyanın [Memoization](https://www.geeksforgeeks.org/memoization-1d-2d-and-3d/) metodu ilə optimallaşdırmaq və ya [Bit Manipulation](https://www.youtube.com/watch?v=ZusiKXcz_ac) istifadə edərək bütün mümkün halları (search space) idarə edə biləcək dəyişkən (variable) istifdədə etməyi istəyə bilər.
+Müsahibələrdə bu metodu istifadə edərkən məsələlərin fərqli kontekstdə soruşula biləcəyini nəzərdə tutumağınız önəmlidir. Müxtəlif kontekstlərdə məsələnin hansı metodlarla daha effektiv həll edilməsi müsahibin öhdəliyinə düşür. Müsahibə zamanı verilən məsələnin sadə döngü vasitəsi ilə həlli mümkun olduğu halda, nə üçün mürəkkəb rekursiv funksiya ilə həll etdiyinizi izah edə bilməlisiniz. Müsahib müsahibə zamanı sizdən həmçinin rekursiv yazılmış funksiyanı [Memoization](https://www.geeksforgeeks.org/memoization-1d-2d-and-3d/) metodu ilə optimallaşdırmağınızı və ya [Bit Manipulation](https://www.youtube.com/watch?v=ZusiKXcz_ac) istifadə edərək bütün mümkün halları (search space) idarə edə biləcək dəyişən (variable - red) istifadə etməyinizi istəyə bilər.
 
-Ümumi olaraq, müsahibəyə hazırlaşan zaman yalnız klassik alqoritmlər deyil, həmçinin daha mürəkkəb, bəzən müəyyən spesifik tipli məsələlərdə istifadə olunan [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/), [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/?ref=rp), [Reservoir Sampling](https://www.geeksforgeeks.org/reservoir-sampling/), [Suffix Array](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/), [Rolling Hash](https://en.wikipedia.org/wiki/Rolling_hash), [Minimax](https://en.wikipedia.org/wiki/Minimax) və digər alqoritmlər və ya verilənlər strukturı ilə tanış olmağınız müsahibədə uğur qazanmağınız üçün faydalı ola bilər.  
+Ümumi olaraq, müsahibəyə hazırlaşan zaman yalnız klassik alqoritmlər deyil, həmçinin daha mürəkkəb, bəzən müəyyən spesifik tipli məsələlərdə istifadə olunan [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/), [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/?ref=rp), [Reservoir Sampling](https://www.geeksforgeeks.org/reservoir-sampling/), [Suffix Array](https://www.geeksforgeeks.org/suffix-array-set-1-introduction/), [Rolling Hash](https://en.wikipedia.org/wiki/Rolling_hash), [Minimax](https://en.wikipedia.org/wiki/Minimax) və digər alqoritmlər və ya verilənlər strukturları ilə tanış olmağınız müsahibədə uğur qazanmağınız üçün faydalı ola bilər.  
 
 ##### Randomization
 
-Bəzi verilənlər sturukturları üçün onların randomized formaları klassik formaları qədər keyfiyyət daşımaqla yanaşı, klassik formadan daha sürətli işliyə bilərlər. Məsələn, **Randomized Priority Queue** təxminən klassik forması qədər düzgün işləyir (Randomized olduğu üçün bəzən səhv elementləri növbədədən çıxarda bilər - red), lakin klassik forması ilə müqayisədə sabit zaman mürəkkəbliyinə icra olunur.
+Bəzi verilənlər sturukturları üçün onların randomized formaları klassik formaları qədər keyfiyyət daşımaqla yanaşı, klassik formadan daha sürətli işləyə bilər. Məsələn, **Randomized Priority Queue** təxminən klassik forması qədər düzgün işləyir (Randomized olduğu üçün bəzən səhv elementləri növbədən çıxarda bilər - red), lakin klassik forması ilə müqayisədə sabit zaman mürəkkəbliyinə icra olunur.
 
-Randomization metodu texniki müsahibələrdə digər fundamental metodlar qədər yayqın istifadə olunmasa da müsahibə zamanı istifadə etməklə və ya haqqında danışmaqla hesabınıza ekstra xallar yaza bilərsiniz.
+Randomization metodu texniki müsahibələrdə digər fundamental metodlar qədər geniş istifadə olunmasa da müsahibə zamanı istifadə etməklə və ya haqqında danışmaqla hesabınıza əlavə xallar yaza bilərsiniz.
 
-## Sistem dizayn
+## Sistem dizaynı
 
-Sistem dizaynı müsahibələrində namizədlərin qarşısına tanınmış hər hansı bir platformanın (məsələn, Instagram, Uber, Youtube və s.) və ya bu platformanın hər hansı bir komponentinin (məsələn, paylanmış fayl sistemi (distributed file sytem), milyonlarla sətir kodu və böyük rəqəmlərdə dəyişiklik edilən sistemin test komponenti və s.) sadə formasını qısa zamanda dizayn etmək problemi qoyulur.
+Sistem dizaynı müsahibələrində namizədlərin qarşısına tanınmış hər hansı bir platformanın (məsələn, Instagram, Uber, Youtube və s.) və ya bu platformanın hər hansı bir komponentinin (məsələn, paylanmış fayl sistemi (distributed file sytem - red), milyonlarla sətir kodu və böyük rəqəmlərdə dəyişiklik edilən sistemin test komponenti və s.) sadə formasını qısa zamanda dizayn etmək problemi qoyulur.
 
-Sistem dizayn müsahibəsinin forması və strukturu haqqında müsahibə prosesi bölməsində giriş məlumatı verilmişdir. Kitabçanın bu bölməsində sistem dizaynı müsahibəsinin "junior" və “senior” səviyyələrində nece baş verdiyi daha ətraflı təsvir olunur. Əksər şirkətlər bilirlər ki, bu səviyyələrdə olan mühəndislər nadir hallarda böyük miqyaslı layihələrdə təcrübəyə malik olurlar. Bu baxımdan sistem dizaynı müsahibələri daha çox hipotetik xarakter daşıyır. “Upper-senior”, “Principal/Staff” və ya “Partner/Senior Staff” səviyələrində olan müsahibələrdə tam olaraq namizədin keçmiş təcrübəsi və spesific hallar müzakirə edilir.
+Sistem dizaynı müsahibəsinin forması və strukturu haqqında müsahibə prosesi bölməsində giriş məlumatı verilmişdir. Kitabçanın bu bölməsində sistem dizaynı müsahibəsinin "junior" və "senior" səviyyələrində necə baş verdiyi daha ətraflı təsvir olunur. Əksər şirkətlər bilirlər ki, bu səviyyələrdə olan mühəndislər nadir hallarda böyük miqyaslı layihələrdə təcrübəyə malik olurlar. Bu baxımdan sistem dizaynı müsahibələri daha çox hipotetik xarakter daşıyır. “Upper-senior”, “Principal/Staff” və ya “Partner/Senior Staff” səviyyələrində olan müsahibələrdə tam olaraq namizədin keçmiş təcrübəsi və spesifik hallar müzakirə edilir.
 
-Sistem dizaynı müsahibəsində müsahibin diqqət etdiyi əsas faktor, namizədin mürəkkəb sistəmlərin dizaynına hansı prizmadan yanaşacağı və ya hansı gözlənilməz halları öncədən təxmin edə biləcəyini öyrənməkdir. Uğurlu sistem dizaynı müsahibəsi üçün namizədlər həmçinin, [müxtəlif texniki ölçü](https://www.freecodecamp.org/news/must-know-numbers-for-every-computer-engineer/) vahidlərini bilməli və qərar vermə zamanı hesablamalar edə bilməlidir. Məsələn, namizədlər verilmiş sualın şərtlərinə əsasən data mərkəz (data center) daxilində bir maşından digər maşına ortalama şəbəkə gecikmə müddəti (network latency), şeçilmiş məlumatların idarə edilmə sistəmində (database system) əməliyyatlara sərf oluna biləcək zaman, sistemi böyütmək istədikdə (horizontal/vertical scaling) lazım olacaq büdcə və ya texniki çətinliklər və bu kimi digər texniki vahidləri hesablaya bilmək.
+Sistem dizaynı müsahibəsində müsahibin diqqət etdiyi əsas faktor namizədin mürəkkəb sistəmlərin dizaynına hansı prizmadan yanaşacağı və ya hansı gözlənilməz halları öncədən təxmin edə biləcəyini öyrənməkdir. Uğurlu sistem dizaynı müsahibəsi üçün namizədlər həmçinin, [müxtəlif texniki ölçü](https://www.freecodecamp.org/news/must-know-numbers-for-every-computer-engineer/) vahidlərini bilməli və qərar vermə zamanı hesablamalar edə bilməlidir. Məsələn, namizədlər verilmiş sualın şərtlərinə əsasən data mərkəzi (data center) daxilində bir maşından digər maşına ortalama şəbəkə gecikmə müddəti (network latency), şeçilmiş məlumatların idarə edilmə sistəmində (database system) əməliyyatlara sərf oluna biləcək zaman, sistemi böyütmək istədikdə (horizontal/vertical scaling) lazım olacaq büdcə və ya texniki çətinliklər və bu kimi digər texniki vahidləri hesablaya bilmək.
 
-Sistem dizaynı müsahibəsi zamanı verilən sualı ümumi müzakirə etdikdən sonra, daha dərin bildiyin mövzu ətrafında fokuslana bilərsiniz. Məsələn, şəbəkə üzrə dərin biliklərə sahibsinizsə, o zaman sistemin şəbəkə tərəfdə qarşıya çıxa biləcək probləmləri daha çox müzakirə edə bilərsiniz. Müsahib sistem dizaynı mövzusunun genişliyini anladığı üçün, namizədin bildiyi mövzulara daha dərin yanalmasını anlayışla qəbul edir.
+Sistem dizaynı müsahibəsi zamanı verilən sualı ümumi müzakirə etdikdən sonra, daha dərin bildiyiniz mövzu ətrafında fokuslana bilərsiniz. Məsələn, şəbəkə üzrə dərin biliklərə sahibsinizsə, o zaman sistemin şəbəkə tərəfdən qarşıya çıxa biləcək problemlərini daha çox müzakirə edə bilərsiniz. Müsahib sistem dizaynı mövzusunun genişliyini anladığı üçün, namizədin bildiyi mövzulara daha çox vaxt ayırmasını anlayışla qəbul edir.
 
 ### Mövzular
 
-Sistem dizaynı zamanı namizədlər spesifik biliklərdən başqa önəmli fundamental mövzularla da tanış olmalıdırlar. Mövzuların daha detallı siyahısı ilə [The System Design Primer](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics) tanış ola biləriz. Digər faydalız hazırlıq resursu olaraq [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) istifadə edə bilərsiniz.
+Sistem dizaynı zamanı namizədlər spesifik biliklərdən başqa önəmli fundamental mövzularla da tanış olmalıdırlar. Mövzuların daha detallı siyahısı ilə [The System Design Primer](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)-də tanış ola biləriz. Digər faydalı hazırlıq resursu olaraq [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)-dan istifadə edə bilərsiniz.
 
 #### Şəbəkə (Network)
 
-Ən önəmli fundamental sistem dizaynı mövzularından biri kompyuter şəbəkələridir. Namizədlər texniki müsahibə hazırlaşan zaman müxtəlif önəmli şəbəkə protokolları haqda gərəki biliklər əldə etməlidir.
+Ən önəmli fundamental sistem dizaynı mövzularından biri kompyuter şəbəkələridir. Namizədlər texniki müsahibəyə hazırlaşan zaman müxtəlif önəmli şəbəkə protokolları haqda lazımi biliklər əldə etməlidir.
 
-Müsahibə zamanı namizədlərdən client-server arxitekturasında hansı protokolların istifədə olunduğu, protokolun verdiyi zəmanətlər və digər mövzular soruşula bilər. Kompyuter şəbəkələri kompyiter elmlərinin klassik bölməsi olduğu üçün bu mövzuda çoxlu materillar, onlayn dərslər və kitablar mövcuddur. Bizim bəyəndiyimi resurslardan biri [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) kitabıdır. Kitabda önəmli şəbəkə mövzuları geniş müzakirə olunur. Sizə gərəkli olan mövzuları seçib oxuya bilərsiniz.
+Müsahibə zamanı namizədlərdən müştəri-server (client-server) arxitekturasında hansı protokolların istifədə olunduğu, protokolun verdiyi zəmanətlər və digər mövzular soruşula bilər. Kompyuter şəbəkələri kompyuter elmlərinin klassik bölməsi olduğu üçün bu mövzuda çoxlu materiallar, onlayn dərslər və kitablar mövcuddur. Bizim bəyəndiyimiz resurslardan biri [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) kitabıdır. Kitabda önəmli şəbəkə mövzuları geniş müzakirə olunur. Sizə gərəkli olan mövzuları seçib oxuya bilərsiniz.
 
 #### Məlumatların saxlanılması (Storage solutions)
 
-Sistem dizaynı müsahibələrində tez-tez müraciət olunan digər mövzu məlumatların saxlanması və idarə olunmasıdır. Namizədlər ümumi olaraq batch processing, stream processing, hot-cold data, warehouse solutions, müxtəlif transactional zəmanətlər və sair bu kimi mövzularla tanış olmalıdır.
+Sistem dizaynı müsahibələrində tez-tez müraciət olunan digər mövzu məlumatların saxlanılması və idarə olunmasıdır. Namizədlər ümumi olaraq batch processing, stream processing, hot-cold data, warehouse solutions, müxtəlif transactional zəmanətlər və sair bu kimi mövzularla tanış olmalıdır.
 
 Müsahibədə namizədə məlumatların sürətli saxlanılması və təhlili, sistemdə baş verən hadisələrə uyğun olaraq avtomatik bildirişlərin göndərilməsi və bu kimi başqa tapşırıqlar da verilə bilir.
 
@@ -364,11 +364,11 @@ Sistem dizaynı müsahibələrinə hazırlaşmaq üçün bizim bəyəndiyimiz ki
 
 #### Paylanmış sistemlər (Distributed systems)
 
-Paylanmış sistemler özlüyündə kompyuter elmlərinin geniş alt bölmələrindən biridir və bu mövzu barədə detallı yazmaq bu kitabçanın həcmindən qat-qat çoxdur. Paylanmış sistemlərin *Replication*, *sharding*, *fault-tolerance*, *load-balancing*, *consensus, caching* və digər konseptləri demək olar ki, bütün mürəkkəb sistemlərin terkib hissəsidir. Bu səbəbdən, namizədlərin bu mövzularla tanış olması müsahibədə uğur qazanmaqları üçün önəmlidir. Mövzu haqda ətraflı öyrənmək üçün bizim bəyəndiyimiz [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos) dərsinə onlayn baxa bilərsiniz.
+Paylanmış sistemlər özlüyündə kompyuter elmlərinin geniş alt bölmələrindən biridi. Bu mövzu barədə detallı yazmaq bu kitabçanın çərçivəsindən kənara çıxmaq olardı. Paylanmış sistemlərin *Replication*, *sharding*, *fault-tolerance*, *load-balancing*, *consensus, caching* və digər konseptləri demək olar ki, bütün mürəkkəb sistemlərin tərkib hissəsidir. Bu səbəbdən, namizədlərin bu mövzularla tanış olması müsahibədə uğur qazanmaqları üçün önəmlidir. Mövzu haqda ətraflı öyrənmək üçün bizim bəyəndiyimiz [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos) dərsinə onlayn baxa bilərsiniz.
 
-#### Umumi texniki biliklər
+#### Ümumi texniki biliklər
 
-Burada spesifik movzular deyil, əksər mühəndislərin gündəlik iş həyatında işlətdikləri texniki həllər, məsələn, client-server arxitekturası üçün gərəkli olan texniki alətlər, 2 servis arasında məlumatların ötürülməsini təmin edəcə məlumat formatları və sair barədə suallar müzakirə edilir.  
+Burada spesifik movzular deyil, əksər mühəndislərin gündəlik iş həyatında işlətdikləri texniki həllər, məsələn, client-server arxitekturası üçün gərəkli olan texniki alətlər, 2 servis arasında məlumatların ötürülməsini təmin edəcək məlumat formatları və sair barədə suallar müzakirə edilir.  
 
 ### Əlavə mənbələr
 
