@@ -346,7 +346,7 @@ Sistem dizaynı müsahibəsi zamanı verilən sualı ümumi müzakirə etdikdən
 
 ### Mövzular
 
-Sistem dizaynı zamanı namizədlər spesifik biliklərdən başqa önəmli fundamental mövzularla da tanış olmalıdırlar. Mövzuların daha detallı siyahısı ilə [The System Design Primer](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)-də tanış ola biləriz. Digər faydalı hazırlıq resursu olaraq [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)-dan istifadə edə bilərsiniz.
+Sistem dizaynı zamanı namizədlər spesifik biliklərdən başqa önəmli fundamental mövzularla da tanış olmalıdırlar. Mövzuların daha detallı siyahısı ilə [The System Design Primer](https://github.com/donnemartin/system-design-primer#index-of-system-design-topics)-də tanış ola biləriz. Digər faydalı hazırlıq resursu olaraq [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)-dan istifadə edə bilərsiniz.
 
 #### Şəbəkə (Network)
 
